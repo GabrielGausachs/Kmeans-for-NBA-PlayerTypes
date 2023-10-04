@@ -13,4 +13,11 @@ To analyse each new player-type and to suggets potential player acquisitions to 
 ## Clustering
 First of all, we read the data and clean it so that we can work comfortable. Our dataframe has 583 players with 11 variables. Apart from the name and the team of the players and the season, we have the frequency of each play-style. These play-styles are: 
 - Isolation
-- Pick & Roll Ball Handler, Pick & Roll Roll Man, Transition, Post up, Spot up, Cut and Handoff. Once we have the data cleaned, we start to define how we are going to group this players.
+- Pick & Roll Ball Handler
+- Pick & Roll Roll Man
+- Transition
+- Post up
+- Spot up
+- Cut
+- Handoff.
+Once we have the data cleaned, we start to define how we are going to group this players.
