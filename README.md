@@ -10,3 +10,5 @@ In this project we use differents datasets. For the data of possesion percentatg
 
 To analyse each new player-type and to suggets potential player acquisitions to teams, we use data extracted from Basketball Reference (https://www.basketball-reference.com/).
 
+## Clustering
+
