@@ -19,5 +19,7 @@ First of all, we read the data and clean it so that we can work comfortable. Our
 - Post up
 - Spot up
 - Cut
-- Handoff.
-Once we have the data cleaned, we start to define how we are going to group this players.
+- Handoff
+  
+Once we have the data cleaned, we can start to build our Kmeans model. 
+We decide to use Kmeans but it's very important to choose wisely how many clusters to model. So our first step is to use the elbow method to find  the optimal number of clusters in our data. 
