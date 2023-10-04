@@ -1,10 +1,12 @@
 # Using Kmeans to find new NBA PlayerTypes
 Inspired by a few Medium articles, in this repository we'll group NBA players using Kmeans algorithm to analyse each type of players and to suggest new signings.
 
-In the world of professional basketball, particularly the NBA, players exhibit diverse playing styles and strengths. This project aims to apply K-Means clustering to group NBA players based on their possession percentages in various play-types. By doing so, we seek to uncover distinctive player profiles, enhance performance analysis in the NBA.
+In the world of professional basketball, particularly the NBA, players exhibit diverse playing styles and strengths. This project aims to apply K-Means clustering to group NBA players based on their possession percentages in various play-types in 2019 & 2020 seasons. By doing so, we seek to uncover distinctive player profiles, enhance performance analysis in the NBA.
 Additionally, we aim to propose potential player acquisitions to replace those with similar playing styles, contributing to strategic decision-making for teams.
 
-## Data Extraction
+## The data
 
-For this project
+In this project we use differents datasets. For the data of possesion percentatges in various play-types, we use 2 datasets, one for the 2018-2019 season and the other one for de 2019-2020 season. The 2019-2020 season dataset is in Kaggle and the 2018-2019 we find it in a Github repostiory mentioned in the end of this article. 
+
+To analyse each new player-type and to suggets potential player acquisitions to teams, we use data extracted from Basketball Reference (https://www.basketball-reference.com/).
 
