@@ -32,7 +32,7 @@ Now, we fit the model with k=6 and add the new clusters to our data.
 
 ## Results
 
-After reviewing how we group our data, we can define the 6 different offensive player-type and see their characteristics in this HeatMap:
+After reviewing how the model grouped our data, we can define the 6 different offensive player-type and see their characteristics in this HeatMap:
 
 ![Alt text](<img/HeatMap Clusters.png>)
 
