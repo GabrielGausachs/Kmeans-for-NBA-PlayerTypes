@@ -6,3 +6,5 @@ Additionally, we aim to propose potential player acquisitions to replace those w
 
 ## Data Extraction
 
+For this project
+
