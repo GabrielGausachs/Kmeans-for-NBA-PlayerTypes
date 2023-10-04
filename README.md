@@ -27,3 +27,11 @@ We decide to use Kmeans but it's very important to choose wisely how many cluste
 ![Alt text](img/elbow_method.png)
 
 Analysing the graph, we would declare that the optimal k is 4. However, we know nowadays there aren't only 4 types of offensive players, so we declare k=6.
+
+Now, we fit the model with k=6 and add the new clusters to our data.
+
+## Results
+
+After reviewing how we group our data, we can define the 6 different offensive player-type and see their characteristics in this HeatMap:
+
+![Alt text](<img/HeatMap Clusters.png>)
