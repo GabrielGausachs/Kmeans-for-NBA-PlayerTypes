@@ -24,7 +24,7 @@ First of all, we read the data and clean it so that we can work comfortable. Our
 Once we have the data cleaned, we can start to build our Kmeans model. 
 We decide to use Kmeans but it's very important to choose wisely how many clusters to model. So our first step is to use the elbow method to find the optimal number of clusters in our data. Here is the result:
 
-![Alt text](img/elbow_method.png)
+![Alt text](img/elbow_method.png) {width=200px height=100px}
 
 Analysing the graph, we would declare that the optimal k is 4. However, we know nowadays there aren't only 4 types of offensive players, so we declare k=6.
 
@@ -34,7 +34,7 @@ Now, we fit the model with k=6 and add the new clusters to our data.
 
 After reviewing how the model grouped our data, we can define the 6 different offensive player-type and see their characteristics in this HeatMap:
 
-![Alt text](<img/HeatMap Clusters.png>)
+![Alt text](<img/HeatMap Clusters.png>) {width=300px height=200px}
 
 The first cluster we name it **Spot Up Wing**. As we can see, these players usually spot up behind the arc and create in transition. Also, we can see that they operate more as handler than as a roll-man in the pick&rolls. **All Ofensive** players are defined by a high number of possesions in different play-styles. They usually create in transition, spot up behind the arc, they are the handlers in the pick&rolls and sometimes they play in isolation. Another cluster is **Rim Runners**. These players have an specific offensive style. They are always cutting and generate buckets through setting screens and rolling to the basket. Then, we have the **Post Up Big** that as the name says, they usually post up and operate as roll-man in the pick&rolls. The **On-ball Handler** as we can observe in the heat map are very defined by being the handlers in the pick&rolls but also sometimes they occupy exterior position to shoot, create in transition and are isolated. Finally, **Spot Up Big** are these big players that post up but also they can spot up behind the arc and make transitions.
 
