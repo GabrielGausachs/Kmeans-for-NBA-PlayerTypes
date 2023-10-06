@@ -1,5 +1,5 @@
 # Using Kmeans to find new NBA PlayerTypes
-Inspired by a few Medium articles, in this repository we'll group NBA players using Kmeans algorithm to analyse each type of players offensive and to suggest new signings.
+Inspired by a few Medium articles, in this repository we'll group NBA players using Kmeans algorithm to define offensive type of players and to suggest new signings.
 
 In the world of professional basketball, particularly the NBA, players exhibit diverse playing styles and strengths offensively. This project aims to apply K-Means clustering to group NBA players based on their possession percentages in various play-types in 2019 & 2020 seasons. By doing so, we seek to uncover distinctive player profiles, enhance performance analysis in the NBA.
 Additionally, we aim to propose potential player acquisitions to replace those with similar playing styles, contributing to strategic decision-making for teams.
@@ -36,6 +36,15 @@ After reviewing how the model grouped our data, we can define the 6 different of
 
 ![Alt text](<img/HeatMap Clusters.png>)
 
-The first cluster we name it **Spot Up Wing**. As we can see, these players usually spot up behind the arc and create in transition. Also, we can see that they operate more as handler than as a roll-man in the pick&rolls. **All Ofensive** players are defined by a high number of possesions in different play-styles. They usually create in transition, spot up behind the arc, they are the handlers in the pick&rolls and sometimes they play in isolation. Another cluster is **Rim Runners**. These players have an specific offensive style. They are always cutting and generate buckets through setting screens and rolling to the basket. Then, we have the **Post up Big** that as the name says, they usually post up and operate as roll-man in the pick&rolls. The **On-ball Handler** as we can observe in the heat map are very defined by being the handlers in the pick&rolls but also sometimes they occupy exterior position to shoot, create in transition and are isolated. Finally, **Spot Up Big** are these big players that post up but also they can spot up behind the arc and make transitions.
+The first cluster we name it **Spot Up Wing**. As we can see, these players usually spot up behind the arc and create in transition. Also, we can see that they operate more as handler than as a roll-man in the pick&rolls. **All Ofensive** players are defined by a high number of possesions in different play-styles. They usually create in transition, spot up behind the arc, they are the handlers in the pick&rolls and sometimes they play in isolation. Another cluster is **Rim Runners**. These players have an specific offensive style. They are always cutting and generate buckets through setting screens and rolling to the basket. Then, we have the **Post Up Big** that as the name says, they usually post up and operate as roll-man in the pick&rolls. The **On-ball Handler** as we can observe in the heat map are very defined by being the handlers in the pick&rolls but also sometimes they occupy exterior position to shoot, create in transition and are isolated. Finally, **Spot Up Big** are these big players that post up but also they can spot up behind the arc and make transitions.
+
+Here is a list of 5 different players that are in each offensive type of players:
+
+- All Ofensive: Stephen Curry, Paul George, Kevin Durant, Bradley Beal, Khris Middleton
+- Spot Up Wing: Giannis Antetokounmpo, Julius Randle, Danilo Gallinari, Kevin Love, Lauri Markkanen	
+- Rim Runners: Clint Capela, Domantas Sabonis, Myles Turner, Serge Ibaka, Rudy Gobert
+- Post Up Big: Joel Embiid, Karl-Anthony Towns, Anthony Davis, Andre Drummond, Deandre Ayton
+- On-ball Handler: James Harden, LeBron James, Devin Booker, Damian Lillard, Kyrie Irving
+- Spot Up Big: Joe Harris, Robert Covington, Jaylen Brown, Trevor Ariza, Jae Crowder
 
 
