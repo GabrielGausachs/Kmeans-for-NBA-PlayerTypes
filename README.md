@@ -6,7 +6,7 @@ Additionally, we aim to propose potential player acquisitions to replace those w
 
 ## The data
 
-In this project we use differents datasets. For the data of possesion percentatges in various play-types, we use 2 datasets, one for the 2018-2019 season and the other one for de 2019-2020 season. The 2019-2020 season dataset is in Kaggle and the 2018-2019 we find it in a Github repostiory mentioned in the end of this article. 
+In this project we use differents datasets. For the data of possesion percentatges in various play-types, we use 2 datasets, one for the 2018-2019 season and the other one for de 2019-2020 season. The 2019-2020 season dataset is in Kaggle and the 2018-2019 we find it in a Github repostiory mentioned in the end of this article. In total we have 583 players and 12 columns.
 
 To analyse each new player-type and to suggets potential player acquisitions to teams, we use data extracted from Basketball Reference (https://www.basketball-reference.com/).
 
@@ -48,3 +48,9 @@ Here is a list of 5 different players that are in each offensive type of players
 - Spot Up Big: Joe Harris, Robert Covington, Jaylen Brown, Trevor Ariza, Jae Crowder
 
 ![Alt text](img/players.PNG)
+
+Now let's see how these new players types are distributed:
+
+![Alt text](<img/Barchart comparison.png>)
+
+In this barchart we can see the 2019 and 2020 season behave similarly. Both season there are very few Post Up Bigs compared to the other types and additionally, All-Offensive, On-Ball Handler and Spot-Up Wing are the most dominant types in the game of basketball. Here we can see the modern era of basketball.
