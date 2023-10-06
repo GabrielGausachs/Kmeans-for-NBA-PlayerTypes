@@ -24,7 +24,7 @@ First of all, we read the data and clean it so that we can work comfortable. Our
 Once we have the data cleaned, we can start to build our Kmeans model. 
 We decide to use Kmeans but it's very important to choose wisely how many clusters to model. So our first step is to use the elbow method to find the optimal number of clusters in our data. Here is the result:
 
-![Alt text](img/elbow_method.png) {width=200px height=100px}
+![Alt text](img/elbow_method.png) {width=50px height=25px}
 
 Analysing the graph, we would declare that the optimal k is 4. However, we know nowadays there aren't only 4 types of offensive players, so we declare k=6.
 
