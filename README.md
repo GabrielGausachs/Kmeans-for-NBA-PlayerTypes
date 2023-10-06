@@ -47,4 +47,4 @@ Here is a list of 5 different players that are in each offensive type of players
 - On-ball Handler: James Harden, LeBron James, Devin Booker, Damian Lillard, Kyrie Irving
 - Spot Up Big: Joe Harris, Robert Covington, Jaylen Brown, Trevor Ariza, Jae Crowder
 
-
+![Alt text](img/players.PNG)
