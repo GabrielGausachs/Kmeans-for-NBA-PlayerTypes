@@ -49,8 +49,14 @@ Here is a list of 5 different players that are in each offensive type of players
 
 ![Alt text](img/players.PNG)
 
-Now let's see how these new players types are distributed:
+Let's see how these new players types are distributed:
 
 ![Alt text](<img/Barchart comparison.png>)
 
 In this barchart we can see the 2019 and 2020 season behave similarly. In both season there are very few Post Up Bigs compared to the other types and additionally, All-Offensive, On-Ball Handler and Spot-Up Wing are the most dominant types in the game of basketball. Here we can see the modern era of basketball.
+
+Now, we get the two Spot Up types to analyse the 3P% and 2P% of these players and see who are the leaders in these categories.
+
+![Alt text](img/ScatterPlotSpotUp.png)
+
+With this Scatter Plot we can observe that the points are very distributed independently of which type of Spot Up is. If we look deeper, we can see that in both characteristics the majority of the leaders are Spot Up Wings. That's quite foreseeable because these players are much more defined by Spot Up positions and usually their function is to be open and shoot. Despite all this, we must mention that the most complete player of these stats is a Spot Up Big, Meyers Leonard from the Portland Trail Blazers with 0.45 efficiency from three point line and almost 0.65% from the second line.
