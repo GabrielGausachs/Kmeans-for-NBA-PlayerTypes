@@ -53,4 +53,4 @@ Now let's see how these new players types are distributed:
 
 ![Alt text](<img/Barchart comparison.png>)
 
-In this barchart we can see the 2019 and 2020 season behave similarly. Both season there are very few Post Up Bigs compared to the other types and additionally, All-Offensive, On-Ball Handler and Spot-Up Wing are the most dominant types in the game of basketball. Here we can see the modern era of basketball.
+In this barchart we can see the 2019 and 2020 season behave similarly. In both season there are very few Post Up Bigs compared to the other types and additionally, All-Offensive, On-Ball Handler and Spot-Up Wing are the most dominant types in the game of basketball. Here we can see the modern era of basketball.
