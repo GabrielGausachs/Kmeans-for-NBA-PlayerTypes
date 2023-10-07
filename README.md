@@ -44,11 +44,11 @@ The first cluster I name it **Spot Up Wing**. As I can see, these players usuall
 Here is a list of 5 different players that are in each offensive type of players:
 
 - All Ofensive: Stephen Curry, Paul George, Kevin Durant, Bradley Beal, Khris Middleton
-- Spot Up Wing: Giannis Antetokounmpo, Julius Randle, Danilo Gallinari, Kevin Love, Lauri Markkanen	
+- Spot Up Big: Giannis Antetokounmpo, Julius Randle, Danilo Gallinari, Kevin Love, Lauri Markkanen	
 - Rim Runners: Clint Capela, Domantas Sabonis, Myles Turner, Serge Ibaka, Rudy Gobert
 - Post Up Big: Joel Embiid, Karl-Anthony Towns, Anthony Davis, Andre Drummond, Deandre Ayton
 - On-ball Handler: James Harden, LeBron James, Devin Booker, Damian Lillard, Kyrie Irving
-- Spot Up Big: Joe Harris, Robert Covington, Jaylen Brown, Trevor Ariza, Jae Crowder
+- Spot Up Wing: Joe Harris, Robert Covington, Jaylen Brown, Trevor Ariza, Jae Crowder
 
 ![Alt text](img/players.PNG)
 
