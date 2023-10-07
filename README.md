@@ -1,4 +1,4 @@
-# Using Kmeans to find new NBA PlayerTypes
+# Using Kmeans to find new Offensive NBA PlayerTypes
 Inspired by a few Medium articles, in this repository I'll group NBA players using Kmeans algorithm to define offensive type of players and to suggest new signings. The data and analysis of this project is based in data from 2019 & 2020 seasons.
 
 ## Introduction
