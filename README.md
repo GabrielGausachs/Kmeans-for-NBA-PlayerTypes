@@ -1,18 +1,19 @@
 # Using Kmeans to find new NBA PlayerTypes
-Inspired by a few Medium articles, in this repository I'll group NBA players using Kmeans algorithm to define offensive type of players and to suggest new signings.
+Inspired by a few Medium articles, in this repository I'll group NBA players using Kmeans algorithm to define offensive type of players and to suggest new signings. The data and analysis of this project is based in data from 2019 & 2020 seasons.
 
+## Introduction
 In the world of professional basketball, particularly the NBA, players exhibit diverse playing styles and strengths offensively. This project aims to apply K-Means clustering to group NBA players based on their possession percentages in various play-types in 2019 & 2020 seasons. By doing so, I seek to uncover distinctive player profiles, enhance performance analysis in the NBA.
 Additionally, I aim to propose potential player acquisitions to replace those with similar playing styles, contributing to strategic decision-making for teams.
 
 ## The data
 
-This project is 
-In this project I use differents datasets. For the data of possesion percentatges in various play-types, I use 2 datasets, one for the 2018-2019 season and the other one for de 2019-2020 season. The 2019-2020 season dataset is in Kaggle and the 2018-2019 I find it in a Github repostiory mentioned in the end of this article. In total I have 583 players and 12 columns.
+To group NBA players, I use possesion percentatges in various play-types defined in the official web of the NBA. I use differents datasets. For clustering, I use 2 datasets, one for the 2018-2019 season and the other one for de 2019-2020 season. The 2019-2020 season dataset is in Kaggle and the 2018-2019 I find it in a Github repostiory mentioned in the end of this article. In total I have 583 players and 12 columns.
 
-To analyse each new player-type and to suggets potential player acquisitions to teams, I use data extracted from Basketball Reference (https://www.basketball-reference.com/).
+To analyse each new player-type and to suggets potential player acquisitions to teams, I use data extracted from Basketball Reference.
 
 ## Clustering
 First of all, I read the data and clean it so that I can work comfortable. Our dataframe has 583 players with 11 variables. Apart from the name and the team of the players and the season, I have the frequency of each play-style. These play-styles are: 
+
 - Isolation
 - Pick & Roll Ball Handler
 - Pick & Roll Roll Man
@@ -80,5 +81,31 @@ For the comparison, I decide to use radar plot so that I get some stats together
 
 ![Alt text](img/RadarPlot.png)
 
-So let's draw conclusions using this radar plot. As I can see, Bradley Beal (red line) is the most complete player between them being the best in the majority of the stats. But looking closer, if I observe Khris Middleton (blue line) and Jeremy Lamb (green line), Jeremy Lamb is better than Middleton in BPM and PER but basically, they are very similar except for the AST% that middleton is way better.
-A team must take into account a lot more data to decide if it's viable to replace one player with another but with these radar plot I can conclude Jeremy Lamb could have been a reliable option if Milwaukee Bucks wanted to replace Khris Middleton back in 2019. 
+So let's draw conclusions using this radar plot. As I can see, Bradley Beal (red line) is the most complete player between them being the best in the majority of the stats. But looking closer, if I observe Khris Middleton (blue line) and Jeremy Lamb (green line), Jeremy Lamb is better than Middleton in BPM and PER but basically, they are very similar except for the AST% that middleton seems to be in another league.
+A team must take into account a lot more data to decide if it's viable to replace one player with another but with these radar plot I can conclude Jeremy Lamb could have been a reliable option if Milwaukee Bucks wanted to replace Khris Middleton back in 2019.
+
+## Conclusions
+In conclusion, in this project I applied K-means clustering successfully and I defined new offensive play-types based in data. After that, I analysed my clustering and made a few plots that helped to understand the modern era of basketball and to highlight different players that without the data we would not pay attention to at first glance, like Meyers Leonard.
+
+Finally, I provided a practical application by suggesting potential player acquisitions to replace players with similar playing styles. This aspect contributes significantly to strategic decision-making for NBA teams looking to bolster their rosters with players who can seamlessly fit into existing systems.
+
+This is my first project in Sports Analytics and I have enjoyed it and I hope to continue learning and putting into practice all the knowledge I am acquiring.
+
+## Suggestions for improvement
+
+In this project I used data from 2018 & 2019 about possesion percentatges in various play-types. To enhance the clustering analysis and achieve better differentiation among player clusters, I could consider incorporating additional data sources. Data like player physical attributes or stats of the game could provide a more comprehensive understanding of player profiles and playing styles. What's more, I could go deeper into the analysis and study more the differents defined play-types.
+
+
+## Reference
+
+https://www.nba.com/stats/players/transition NBA Stats
+
+https://www.basketball-reference.com/ Basketball Reference
+
+https://medium.com/playing-numbers/beyond-the-arch-introducing-a-new-way-to-understand-the-game-92c30b1a8599 by Brennan Ruby
+
+https://towardsdatascience.com/redefining-nba-player-classifications-using-clustering-36a348fa54a8 Ahmed Jyad
+
+## Contributors
+
+Gabriel Gausachs
