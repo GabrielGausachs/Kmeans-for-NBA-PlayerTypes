@@ -2,7 +2,7 @@
 Inspired by a few Medium articles, in this repository I'll group NBA players using Kmeans algorithm to define offensive type of players and to suggest new signings. The data and analysis of this project is based in data from 2019 & 2020 seasons.
 
 ## Introduction
-In the world of professional basketball, particularly the NBA, players exhibit diverse playing styles and strengths offensively. This project aims to apply K-Means clustering to group NBA players based on their possession percentages in various play-types in 2019 & 2020 seasons. By doing so, I seek to uncover distinctive player profiles, enhance performance analysis in the NBA.
+In the world of professional basketball, particularly the NBA, players exhibit diverse playing styles and strengths offensively. This project aims to apply K-Means clustering to group NBA players based on their possession percentages in various play-types in 2019 & 2020 seasons. By doing so, I seek to uncover distinctive player profiles and enhance performance analysis in the NBA.
 Additionally, I aim to propose potential player acquisitions to replace those with similar playing styles, contributing to strategic decision-making for teams.
 
 ## The data
