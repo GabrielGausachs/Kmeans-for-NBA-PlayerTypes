@@ -7,7 +7,7 @@ Additionally, I aim to propose potential player acquisitions to replace those wi
 
 ## The data
 
-To group NBA players, I use possesion percentatges in various play-types defined in the official web of the NBA. I use differents datasets. For clustering, I use 2 datasets, one for the 2018-2019 season and the other one for de 2019-2020 season. The 2019-2020 season dataset is in Kaggle and the 2018-2019 I find it in a Github repostiory mentioned in the end of this article. In total I have 583 players and 12 columns.
+To group NBA players, I use possesion percentatges in various play-types from 2019 and 2020 seasons, defined in the official web of the NBA. The 2019-2020 season dataset is in Kaggle and the 2018-2019 I find it in a Github repostiory mentioned in the end of this article. In total I have 583 players and 12 columns.
 
 To analyse each new player-type and to suggets potential player acquisitions to teams, I use data extracted from Basketball Reference.
 
