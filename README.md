@@ -66,6 +66,8 @@ Now, I get the two Spot Up types to analyse the 3P% and 2P% of these players and
 
 With this scatter plot I can observe that the points are very distributed independently of which type of Spot Up is. If I look deeper, I can see that in both characteristics the majority of the leaders are Spot Up Wings. That's quite foreseeable because these players are much more defined by spot up plays and usually their function is to be open and shoot. Despite all this, I must mention that the most complete player of these stats is a Spot Up Big, Meyers Leonard from the Portland Trail Blazers with 0.45 efficiency from three point line and almost 0.65 from the second line.
 
+
+
 For the last part, I choose one player of one offensive type and I suggest 2 new signings and I compare these 2 players with the one I selected. This analysis could be applied to any player of any type.
 
 For example, I choose Khris Middleton, an all-offensive player according to my clustering. Khris Middleton in 2019 had a salary of 13M/y. Now I compare him with 2 all-offensive players too: Bradley Beal (25.5M/y) and Jeremy Lamb (7.48M/y). *Salaries are taken from ESPN*
