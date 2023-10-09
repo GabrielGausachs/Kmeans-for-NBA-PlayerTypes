@@ -96,7 +96,7 @@ This is my first project in Sports Analytics and I have enjoyed it and I hope to
 
 ## Suggestions for improvement
 
-In this project I used data from 2018 & 2019 about possesion percentatges in various play-types. To enhance the clustering analysis and achieve better differentiation among player clusters, I could consider incorporating additional data sources. Data like player physical attributes or stats of the game could provide a more comprehensive understanding of player profiles and playing styles. What's more, I could go deeper into the analysis and study more the differents defined play-types.
+I could use data from the the lasts season so that i could give a more updated analysis. To enhance the clustering analysis and achieve better differentiation among player clusters, I could consider incorporating additional data sources. Data like player physical attributes or stats of the game could provide a more comprehensive understanding of player profiles and playing styles. What's more, I could go deeper into the analysis and study more the differents defined play-types.
 
 
 ## Reference
@@ -107,7 +107,7 @@ https://www.basketball-reference.com/ Basketball Reference
 
 https://medium.com/playing-numbers/beyond-the-arch-introducing-a-new-way-to-understand-the-game-92c30b1a8599 by Brennan Ruby
 
-https://towardsdatascience.com/redefining-nba-player-classifications-using-clustering-36a348fa54a8 Ahmed Jyad
+https://towardsdatascience.com/redefining-nba-player-classifications-using-clustering-36a348fa54a8 by Ahmed Jyad
 
 ## Contributors
 
