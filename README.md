@@ -12,7 +12,7 @@ To group NBA players, I use possesion percentatges in various play-types from 20
 To analyse each new player-type and to suggets potential player acquisitions to teams, I use data extracted from Basketball Reference.
 
 ## Clustering
-First of all, I read the data and clean it so that I can work comfortable. Our dataframe has 583 players with 11 variables. Apart from the name and the team of the players and the season, I have the frequency of each play-style. These play-styles are: 
+First of all, I read the data and clean it so that I can work comfortable. Our dataframe has 583 players with 12 variables. Apart from the name and the team of the players and the season, I have the frequency of each play-style. These play-styles are: 
 
 - Isolation
 - Pick & Roll Ball Handler
